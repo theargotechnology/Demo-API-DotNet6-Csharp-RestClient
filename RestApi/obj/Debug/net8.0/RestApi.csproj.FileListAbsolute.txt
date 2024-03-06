@@ -32,3 +32,5 @@ C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\Rest
 C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi\obj\Debug\net8.0\RestApi.genruntimeconfig.cache
 C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi\obj\Debug\net8.0\ref\RestApi.dll
 C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi\obj\Debug\net8.0\RestApi.sourcelink.json
