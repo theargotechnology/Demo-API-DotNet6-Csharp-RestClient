@@ -10,11 +10,13 @@
 ```js
 GET /stations
 ```
+Returns a List of the ff:
 
 ```json
 {
-    "name":"somename",
-    "anothername":"anothername"
+    "label":"Rainfall station",
+    "lat":"53.983799",
+    "stationReference":"040752"
 }
 ```
 
