@@ -1,0 +1,11 @@
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\bin\Debug\net6.0\RestApi.Contracts.deps.json
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\bin\Debug\net6.0\RestApi.Contracts.dll
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\bin\Debug\net6.0\RestApi.Contracts.pdb
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.AssemblyInfo.cs
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.dll
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\refint\RestApi.Contracts.dll
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\RestApi.Contracts.pdb
+C:\Users\ultra\OneDrive\Documents\GitHub\Demo-API-DotNet6-Csharp-RestClient\RestApi.Contracts\obj\Debug\net6.0\ref\RestApi.Contracts.dll

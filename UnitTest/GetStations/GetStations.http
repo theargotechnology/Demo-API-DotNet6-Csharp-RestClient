@@ -1,0 +1,2 @@
+GET http://localhost:5229/stations
+Content-Type: application/json
